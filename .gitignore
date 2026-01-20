@@ -1,17 +1,4 @@
-# Ignore virtual environments
-venv/
-env/
-.env/
-__pycache__/
-
-# Ignore large model files
-*.pt
-*.onnx
-
-# Ignore training runs and datasets
-runs/
-datasets/
-
+venv/Lib/
 # Ignore IDE settings
 .vscode/
 .idea/
